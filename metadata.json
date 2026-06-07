@@ -1,0 +1,6 @@
+{
+  "name": "Karak Hostel",
+  "description": "Premium and secure hostel accommodation at Jail Chowk, Karak, Khyber Pakhtunkhwa, Pakistan. Offering fully furnished shared, double, and private rooms, high-speed WiFi, security, and a peaceful study environment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
